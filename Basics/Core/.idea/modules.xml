@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arithmatic/Arithmatic.iml" filepath="$PROJECT_DIR$/Arithmatic/Arithmatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core.iml" filepath="$PROJECT_DIR$/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveDataTypes/PrimitiveDataTypes.iml" filepath="$PROJECT_DIR$/PrimitiveDataTypes/PrimitiveDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational/Relational.iml" filepath="$PROJECT_DIR$/Relational/Relational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListsample/arrayListsample.iml" filepath="$PROJECT_DIR$/arrayListsample/arrayListsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/arraytut.iml" filepath="$PROJECT_DIR$/array/arraytut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifElse/ifElse.iml" filepath="$PROJECT_DIR$/ifElse/ifElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logical/logical.iml" filepath="$PROJECT_DIR$/logical/logical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchCase/switchCase.iml" filepath="$PROJECT_DIR$/switchCase/switchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/whileLoop/whileLoop.iml" />
+    </modules>
+  </component>
+</project>

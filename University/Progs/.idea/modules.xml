@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FtoC/FtoC.iml" filepath="$PROJECT_DIR$/FtoC/FtoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Progs.iml" filepath="$PROJECT_DIR$/Progs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compare2numbers/compare2numbers.iml" filepath="$PROJECT_DIR$/compare2numbers/compare2numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compare3nums/compare3nums.iml" filepath="$PROJECT_DIR$/compare3nums/compare3nums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evenandodd/evenandodd.iml" filepath="$PROJECT_DIR$/evenandodd/evenandodd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorial/factorial.iml" filepath="$PROJECT_DIR$/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leapYear/leapYear.iml" filepath="$PROJECT_DIR$/leapYear/leapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/randomnums/randomnums.iml" filepath="$PROJECT_DIR$/randomnums/randomnums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplePattern/simplePattern.iml" filepath="$PROJECT_DIR$/simplePattern/simplePattern.iml" />
+    </modules>
+  </component>
+</project>
