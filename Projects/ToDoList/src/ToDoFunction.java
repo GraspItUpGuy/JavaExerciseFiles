@@ -23,4 +23,20 @@ public class ToDoFunction {
         }
     }
 
+    // update the list
+    public void UpdateToDo(int index , String UpdatedToDo){
+        toDoList.set(index , UpdatedToDo);
+        System.out.println("List updated at " + index + 1);
+    }
+
+    // Search feature for user
+    public void SearchToDo(String searchThis){
+        int index = toDoList.indexOf(searchThis);
+        if(index >=0){
+            System.out.println("ToDo found at" + index+1);
+        }else{
+            System.out.println("found at " + index+1);
+        }
+    }
+
 }
