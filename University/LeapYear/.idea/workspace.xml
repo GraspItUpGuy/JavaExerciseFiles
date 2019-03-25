@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be91ddd0-a857-43e4-8ad3-6b40ec437e13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompareNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompareNums.java" afterDir="false" />
+    <list default="true" id="3efda539-8105-4c54-b4ab-ad9651618ebd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OddEven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OddEven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OddEven/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OddEven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OddEven/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OddEven/OddEven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OddEven/out/production/OddEven/OddOrEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OddEven/src/OddOrEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompareNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompareNumbers/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CompareNums.java">
+        <entry file="file://$PROJECT_DIR$/src/Leap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+            <state relative-caret-position="232">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -38,7 +47,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CompareNums.java" />
+        <option value="$PROJECT_DIR$/src/Leap.java" />
       </list>
     </option>
   </component>
@@ -47,29 +56,31 @@
     <option name="width" value="1366" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CompareNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CompareNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="LeapYear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeapYear" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553471848090" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553472434921" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -88,16 +99,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="CompareNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompareNums" />
-      <module name="CompareNumbers" />
+    <configuration name="Leap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leap" />
+      <module name="LeapYear" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompareNums" />
+        <item itemvalue="Application.Leap" />
       </list>
     </recent_temporary>
   </component>
@@ -106,17 +117,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="be91ddd0-a857-43e4-8ad3-6b40ec437e13" name="Default Changelist" comment="" />
-      <created>1553470012845</created>
+      <changelist id="3efda539-8105-4c54-b4ab-ad9651618ebd" name="Default Changelist" comment="" />
+      <created>1553472235129</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553470012845</updated>
+      <updated>1553472235129</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="745" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -147,10 +157,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CompareNums.java">
+    <entry file="file://$PROJECT_DIR$/src/Leap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        <state relative-caret-position="232">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
