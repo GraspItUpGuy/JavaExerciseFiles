@@ -35,8 +35,10 @@ public class ToDoFunction {
         if(index >=0){
             System.out.println("ToDo found at" + index+1);
         }else{
-            System.out.println("found at " + index+1);
+            System.out.println("Error 404, Not Found !!!!!!!!");
         }
     }
+
+
 
 }
