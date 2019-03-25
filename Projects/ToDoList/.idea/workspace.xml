@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f517294-b10e-4f33-9a40-3e8018b8a4df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToDo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Basics/metods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Basics/metods/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ToDo.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/functionallities.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
-              <folding>
-                <element signature="e#90#91#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-              </folding>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -52,7 +55,9 @@
     <option name="width" value="1366" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -66,6 +71,11 @@
               <item name="ToDoList" type="b2602c69:ProjectViewProjectNode" />
               <item name="ToDoList" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ToDoList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -74,7 +84,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553516553950" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553517195944" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -107,7 +117,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="745" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -139,12 +148,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ToDo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="145">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
