@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="577ef5d3-5b54-44b9-80e2-e5553fada8e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pattern0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Patterns/crxPattern5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Patterns/crxPattern5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Patterns/pattern5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Patterns/pattern5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crxPattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crxPattern5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,11 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pattern0.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pattern1.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -66,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/crxPattern5.java" />
         <option value="$PROJECT_DIR$/src/pattern5.java" />
         <option value="$PROJECT_DIR$/src/pattern0.java" />
+        <option value="$PROJECT_DIR$/src/pattern1.java" />
       </list>
     </option>
   </component>
@@ -73,7 +79,9 @@
     <option name="width" value="1366" />
     <option name="height" value="768" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -100,7 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554053786594" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554054536308" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -118,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pattern0">
+  <component name="RunManager" selected="Application.pattern1">
     <configuration name="crxPattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="crxPattern5" />
       <module name="Patterns" />
@@ -133,6 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern1" />
+      <module name="Patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern5" />
       <module name="Patterns" />
@@ -142,6 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern1" />
         <item itemvalue="Application.pattern0" />
         <item itemvalue="Application.pattern5" />
         <item itemvalue="Application.crxPattern5" />
@@ -210,8 +226,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pattern0.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern1.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
