@@ -23,49 +23,34 @@ public class crxPattern5 {
 
         Scanner input = new Scanner(System.in);
         System.out.println("enter nuber of rows");
-        int rows = input.nextInt();
+        int n = input.nextInt();
 
 
-        for (int i = 0 ; i< rows ; i++){
+//        for (int i = 0 ; i< rows ; i++){
+//
+//
+//            for (int  j = rows-i ; j>=0 ; j-- ){
+//                System.out.print(" ");
+//            }
+//
+//            for ( int k=0 ; k<=i; k++){
+//                System.out.print("*");
+//            }
+//            System.out.println();
 
 
-            for (int  j = rows-i ; j>=0 ; j-- ){
+
+
+        for(int i = 0; i<=n; i++){
+            for (int j=n-i; j>=0; j--){
                 System.out.print(" ");
             }
 
-            for ( int k=0 ; k<=i; k++){
+            for(int k=0; k<=i; k++){
                 System.out.print("*");
             }
             System.out.println();
-
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
