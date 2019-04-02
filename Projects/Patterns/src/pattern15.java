@@ -16,7 +16,7 @@ public class pattern15 {
                 System.out.println();
             }else if(i>=n-1){
 
-                
+
 
             }else{
                 System.out.println("something went wrong");
