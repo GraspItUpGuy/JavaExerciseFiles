@@ -5,11 +5,11 @@ public class pattern6 {
         for (int i = 0; i < n; i++) {
 
             for (int j= 0; j<2*i ; j++){
-                System.out.print(" ");
+                System.out.print("   ");
             }
 
             for(int k = 0; k<n-i; k++){
-                System.out.print("*");
+                System.out.print(" * ");
             }
 
             System.out.println();
