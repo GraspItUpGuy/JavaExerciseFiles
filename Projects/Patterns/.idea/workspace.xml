@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="577ef5d3-5b54-44b9-80e2-e5553fada8e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pattern12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="87">
+              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pattern13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -63,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/pattern10.java" />
         <option value="$PROJECT_DIR$/src/pattern11.java" />
         <option value="$PROJECT_DIR$/src/pattern12.java" />
+        <option value="$PROJECT_DIR$/src/pattern13.java" />
       </list>
     </option>
   </component>
@@ -99,7 +110,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554226614093" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554232583339" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -117,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pattern12">
+  <component name="RunManager" selected="Application.pattern13">
     <configuration name="pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern10" />
       <module name="Patterns" />
@@ -139,8 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern8" />
+    <configuration name="pattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern13" />
       <module name="Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern13" />
         <item itemvalue="Application.pattern12" />
         <item itemvalue="Application.pattern11" />
         <item itemvalue="Application.pattern9" />
         <item itemvalue="Application.pattern10" />
-        <item itemvalue="Application.pattern8" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +191,7 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15332326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15332326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -302,8 +313,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pattern12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="87">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
