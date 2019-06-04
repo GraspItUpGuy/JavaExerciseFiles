@@ -5,15 +5,19 @@ public class Factorial {
 
         Scanner input =  new Scanner(System.in);
 
+
         System.out.println("enter number greater than 0 ");
         int num = input.nextInt();
-        int fact =1;
-        for(int i=num; i>0; i--){
-            fact = fact * i;
+        if(num == 0){
+            System.out.println("Can't find factorial of integer less than 1");
+        }else {
+            int fact = 1;
+            for (int i = num; i > 0; i--) {
+                fact = fact * i;
+            }
+
+            System.out.println("Factorial is " + fact);
         }
-
-        System.out.println("Factorial is " + fact);
-
     }
 
 
