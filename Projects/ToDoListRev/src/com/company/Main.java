@@ -53,4 +53,31 @@ public class Main {
 
     }
 
+    public static void addItem(){
+        System.out.println("enter your to-do");
+        String newToDo = input.nextLine();
+        myToDoList.addItem(newToDo);
+    }
+    public static void updateItem(){
+        System.out.println("add the index to be updated");
+        int index = input.nextInt();
+        System.out.println("enter value to  be updated");
+        String updateWithThis = input.nextLine();
+        myToDoList.updateToDo(index -1, updateWithThis);
+    }
+    public static void removeItem(){
+        System.out.println("enter index to be deleted");
+        int index = input.nextInt() - 1 ;
+        myToDoList.removeItem(index);
+    }
+    public static void searchItem(){
+        System.out.println("Enter item to be searched");
+        String searchThis = input.nextLine();
+
+        if(myToDoList.findItem(searchThis) == null){
+            System.out.println( "item not found");
+        }else{
+            System.out.println("found in list at ");
+        }
+    }
 }
