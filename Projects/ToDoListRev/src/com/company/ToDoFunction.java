@@ -33,7 +33,7 @@ public class ToDoFunction {
         toDoList.set(index, list);
         System.out.println("ToDoList updated at position : " + index + 1 );
     }
-    
+
     // search in to-do-list
     public String findItem(String searchThis){
        int index = toDoList.indexOf(searchThis);
